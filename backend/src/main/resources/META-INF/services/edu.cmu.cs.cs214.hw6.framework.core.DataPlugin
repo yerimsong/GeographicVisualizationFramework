@@ -1,0 +1,7 @@
+# List of plugins to be registered by framework.
+# Provide fully qualified class names here ( edu.cmu.cs.cs214.hw6.plugin.XXX ),
+# with one plugin per line.
+# ex. edu.cmu.cs.cs214.hw6.plugin.MemoryPlugin
+edu.cmu.cs.cs214.hw6.plugins.PARainfallPlugin
+edu.cmu.cs.cs214.hw6.plugins.USPopulationPlugin
+edu.cmu.cs.cs214.hw6.plugins.CovidPlugin
